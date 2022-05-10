@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arrays Sort</string>
+    <string name="type_sort">Выберите тип сортировки</string>
+    <string name="array_volume">Объем массива</string>
+    <string name="start">Start</string>
+    <string name="_10000">10000</string>
+
+    <string-array name="sort_type">
+        <item>Обмен</item>
+        <item>Включения</item>
+        <item>Шелла</item>
+        <item>Блочная</item>
+    </string-array>
+</resources>
